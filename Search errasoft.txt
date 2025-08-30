@@ -1,0 +1,5 @@
+Class 
+- Use for complex objects with identity and behavior (reference type).
+
+Struct
+- Use for small, lightweight, immutable data (value type).
